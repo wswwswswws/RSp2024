@@ -1,0 +1,7 @@
+﻿  RSPractice.cpp
+  main.cpp
+  qrc_RSPractice.cpp
+  moc_RSPractice.cpp
+qtmain.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“”(使用“qtmain.lib(qtmain_win.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+    正在创建库 D:\DinD\todo\finished\RS-C++\2023遥感实习材料\第二周_第8组\空谱融合RS-Practice\x64\Release\RS-Practice.lib 和对象 D:\DinD\todo\finished\RS-C++\2023遥感实习材料\第二周_第8组\空谱融合RS-Practice\x64\Release\RS-Practice.exp
+  RS-Practice.vcxproj -> D:\DinD\todo\finished\RS-C++\2023遥感实习材料\第二周_第8组\空谱融合RS-Practice\x64\Release\RS-Practice.exe
